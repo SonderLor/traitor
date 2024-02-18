@@ -2,3 +2,6 @@ branch1 commit 3
 branch1 another commit1
 branch1 another commit2
 branch1 another commit3
+cloned branch1 another commit1
+cloned branch1 another commit2
+cloned branch1 another commit3
